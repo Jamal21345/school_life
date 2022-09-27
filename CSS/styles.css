@@ -1,0 +1,18 @@
+body{background-color:#937DC2;
+text-align: center;
+    }
+.socks{
+border-style: solid;
+border-color: #18978F;
+border-width: 30px;
+border-radius: 180px;
+    }
+.p1{
+  height: 400px;
+  width: 600px;
+}
+p{font-size: 25px;}
+.vid{
+  height: 700px;
+  width: 900px;
+}
